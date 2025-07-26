@@ -1,0 +1,50 @@
+[
+  {
+    "productID": "IT2025-1752645505642",
+    "productName": "ASUS RT-AX52 AX1800 Dual Band WiFi Router",
+    "quantityReturned": 1,
+    "pricePerUnit": 7000,
+    "totalRefund": 7000,
+    "unit": "Picec",
+    "timestamp": "2025-07-21T17:23:26.465Z",
+    "adminId": "admin-1752640309387",
+    "reason": "bnbm",
+    "id": "return-1753118606472"
+  },
+  {
+    "productID": "IT2025-1752645505642",
+    "productName": "ASUS RT-AX52 AX1800 Dual Band WiFi Router",
+    "quantityReturned": 9,
+    "pricePerUnit": 7000,
+    "totalRefund": 63000,
+    "unit": "Picec",
+    "timestamp": "2025-07-21T17:24:03.090Z",
+    "adminId": "admin-1752640309387",
+    "reason": "nmb",
+    "id": "return-1753118643097"
+  },
+  {
+    "productID": "IT2025-1752680000050",
+    "productName": "Cisco CBS110-8T-D 8-Port Unmanaged Gigabit Switch",
+    "quantityReturned": 1,
+    "pricePerUnit": 4900,
+    "totalRefund": 4900,
+    "unit": "Piece",
+    "timestamp": "2025-07-21T17:48:02.481Z",
+    "adminId": "admin-1752640309387",
+    "reason": "fgfgfgfg",
+    "id": "return-1753120082484"
+  },
+  {
+    "productID": "IT2025-1752645505642",
+    "productName": "ASUS RT-AX52 AX1800 Dual Band WiFi Router",
+    "quantityReturned": 1,
+    "pricePerUnit": 7000,
+    "totalRefund": 7000,
+    "unit": "Picec",
+    "timestamp": "2025-07-21T18:18:21.944Z",
+    "adminId": "admin-1752640309387",
+    "reason": "fhgf",
+    "id": "return-1753121901947"
+  }
+]

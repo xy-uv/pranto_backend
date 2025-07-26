@@ -1,0 +1,28 @@
+[
+  {
+    "name": "a",
+    "email": "a@gmail.com",
+    "password": "a",
+    "role": "admin",
+    "points": 0,
+    "purchaseHistory": [],
+    "id": "admin-1752640309387"
+  },
+  {
+    "name": "Md.Prannto Islam",
+    "email": "pranto@gmail.com",
+    "password": "pranto",
+    "role": "customer",
+    "points": 0,
+    "purchaseHistory": [],
+    "id": "admin-1752645271660"
+  },{
+    "name": "admin",
+    "email": "admin@gmail.com",
+    "password": "admin",
+    "role": "admin",
+    "points": 0,
+    "purchaseHistory": [],
+    "id": "admin-1752640309386"
+  }
+]

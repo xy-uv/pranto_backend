@@ -1,0 +1,23 @@
+[
+  
+  {
+    "id": "cust-001",
+    "mobile": "+8801712345678",
+    "email": "customer1@example.com",
+    "address": "123 Main Street, Dhaka, Bangladesh",
+    "name": "John Doe",
+    "registrationDate": "2025-07-16T00:00:00.000Z",
+    "totalPurchases": 0,
+    "lastPurchaseDate": null
+  },
+  {
+    "id": "cust-002", 
+    "mobile": "+8801987654321",
+    "email": "customer2@example.com",
+    "address": "456 Park Avenue, Chittagong, Bangladesh",
+    "name": "Jane Smith",
+    "registrationDate": "2025-07-16T00:00:00.000Z",
+    "totalPurchases": 0,
+    "lastPurchaseDate": null
+  }
+]

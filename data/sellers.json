@@ -1,0 +1,11 @@
+[
+  {
+    "name": "a",
+    "email": "a@gmail.com",
+    "password": "a",
+    "role": "seller",
+    "points": 0,
+    "purchaseHistory": [],
+    "id": "admin-1752466211842"
+  }
+] 

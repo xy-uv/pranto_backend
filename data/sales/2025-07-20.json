@@ -1,0 +1,42 @@
+[
+  {
+    "saleId": "s-1753007623465",
+    "productId": "IT2025-1752680000060",
+    "productName": "Cisco CBS250-24T-4G Smart 24-Port Gigabit Switch",
+    "customerId": "customer-1753007623460-975",
+    "customerEmail": "sasasasese245@gmail.com",
+    "customerName": "asdsa",
+    "customerMobile": "+8801979728811",
+    "customerAddress": "Dhaka -1230",
+    "quantity": 1,
+    "pricePerUnit": 19000,
+    "totalPrice": 19000,
+    "unit": "Piece",
+    "currency": "BDT",
+    "dateOfSale": "2025-07-20",
+    "warrantyEndDate": "2027-07-20",
+    "timestamp": "2025-07-20T10:33:43.465Z",
+    "soldBy": "admin-1752640309387",
+    "soldByEmail": "a@gmail.com"
+  },
+  {
+    "saleId": "s-1753007776715",
+    "productId": "IT2025-1752680000090",
+    "productName": "Netgear GS308 8-Port Gigabit Unmanaged Switch",
+    "customerId": "customer-1753007776709-907",
+    "customerEmail": "sasasasese245@gmail.com",
+    "customerName": "Asif",
+    "customerMobile": "01912345678",
+    "customerAddress": "Dhaka -1230",
+    "quantity": 5,
+    "pricePerUnit": 2300,
+    "totalPrice": 11500,
+    "unit": "Piece",
+    "currency": "BDT",
+    "dateOfSale": "2025-07-20",
+    "warrantyEndDate": "2026-07-20",
+    "timestamp": "2025-07-20T10:36:16.715Z",
+    "soldBy": "admin-1752640309387",
+    "soldByEmail": "a@gmail.com"
+  }
+]

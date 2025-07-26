@@ -1,0 +1,42 @@
+[
+  {
+    "saleId": "s-1753118527146",
+    "productId": "IT2025-1752645505642",
+    "productName": "ASUS RT-AX52 AX1800 Dual Band WiFi Router",
+    "customerId": "customer-1753118527138-386",
+    "customerEmail": "hellenwims12@utlook.com",
+    "customerName": "Hellen Willms",
+    "customerMobile": "04154956",
+    "customerAddress": "543 2ND ST\n543 2nd St",
+    "quantity": 2,
+    "pricePerUnit": 7000,
+    "totalPrice": 14000,
+    "unit": "Picec",
+    "currency": "BDT",
+    "dateOfSale": "2025-07-21",
+    "warrantyEndDate": "2026-07-21",
+    "timestamp": "2025-07-21T17:22:07.146Z",
+    "soldBy": "admin-1752640309387",
+    "soldByEmail": "a@gmail.com"
+  },
+  {
+    "saleId": "s-1753121007531",
+    "productId": "IT2025-1752645505642",
+    "productName": "ASUS RT-AX52 AX1800 Dual Band WiFi Router",
+    "customerId": "customer-1753121007529-400",
+    "customerEmail": "hellenwillmhhhs12@outlook.com",
+    "customerName": "Hellen Willms",
+    "customerMobile": "018766488543",
+    "customerAddress": "543 2ND ST\n543 2nd St",
+    "quantity": 4,
+    "pricePerUnit": 7000,
+    "totalPrice": 28000,
+    "unit": "Picec",
+    "currency": "BDT",
+    "dateOfSale": "2025-07-21",
+    "warrantyEndDate": "2026-07-21",
+    "timestamp": "2025-07-21T18:03:27.531Z",
+    "soldBy": "admin-1752640309387",
+    "soldByEmail": "a@gmail.com"
+  }
+]
